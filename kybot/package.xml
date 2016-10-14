@@ -1,0 +1,23 @@
+<package>
+  <name>kybot</name>
+  <version>0.4.0</version>
+  <description>for kybot test</description>
+  <maintainer email="1756681626@qq.com">rcwind</maintainer>
+
+  <license>BSD</license>
+
+  <url type="website"></url>
+
+  <url type="bugtracker"></url>
+
+  <author email="17566816464@qq.com">rcwind</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>kybot_nav</run_depend>
+  <run_depend>kybot_bringup</run_depend>
+
+  <export>
+    <metapackage/>
+  </export>
+</package>
